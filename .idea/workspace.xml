@@ -4,14 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="java 공부">
+    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="나도코딩 java 강의&#10;&#10;자료형, 변수, 상수">
+      <change afterPath="$PROJECT_DIR$/src/chap_01/_Quiz_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_01_Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_02_Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_03_Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_04_Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_05_Operator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_Quiz_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_01_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_02_String2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_07_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_01/_07_TypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,30 +36,90 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K015wGkO8GbX248ra3XzoEYGdD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimsoohyun/Desktop/boot/work/JavaWorkspace/src/chap_01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="_06_Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_01._06_Constants" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chap_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._02_String2">
+    <configuration name="_01_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._01_String1" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_01.*" />
+          <option name="PATTERN" value="chap_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._02_String2" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_Operator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_02._03_Operator3" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_Operator5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_02._05_Operator5" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Quiz_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_02._Quiz_02" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,7 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._06_Constants" />
+        <item itemvalue="Application._02_String2" />
+        <item itemvalue="Application._01_String1" />
+        <item itemvalue="Application._Quiz_02" />
+        <item itemvalue="Application._05_Operator5" />
+        <item itemvalue="Application._03_Operator3" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +145,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673096507228</updated>
-      <workItem from="1673096510150" duration="362000" />
+      <workItem from="1673096510150" duration="676000" />
+      <workItem from="1673253477349" duration="7655000" />
     </task>
     <task id="LOCAL-00001" summary="java 공부">
       <created>1673096560994</created>
@@ -74,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673096560994</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="나도코딩 java 강의&#10;&#10;자료형, 변수, 상수">
+      <created>1673097555108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673097555108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="java 공부" />
+    <MESSAGE value="나도코딩 java 강의&#10;&#10;자료형, 변수, 상수" />
+    <option name="LAST_COMMIT_MESSAGE" value="나도코딩 java 강의&#10;&#10;자료형, 변수, 상수" />
   </component>
 </project>
