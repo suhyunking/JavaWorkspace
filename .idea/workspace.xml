@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="SwitchCase문">
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_05_For.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="For문">
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_06_While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +51,7 @@
       <recent name="$PROJECT_DIR$/src/chap_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._05_For">
-    <configuration name="_01_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_04._01_If" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._06_While">
     <configuration name="_02_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_04._02_else" />
       <module name="JavaWorkspace" />
@@ -118,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_06_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_04._06_While" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._06_While" />
         <item itemvalue="Application._05_For" />
         <item itemvalue="Application._04_SwitchCase" />
         <item itemvalue="Application._03_ElseIf" />
         <item itemvalue="Application._02_else" />
-        <item itemvalue="Application._01_If" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +137,7 @@
       <updated>1673096507228</updated>
       <workItem from="1673096510150" duration="676000" />
       <workItem from="1673253477349" duration="14241000" />
-      <workItem from="1673348346452" duration="2669000" />
+      <workItem from="1673348346452" duration="2902000" />
     </task>
     <task id="LOCAL-00001" summary="java 공부">
       <created>1673096560994</created>
@@ -175,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673350891162</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="For문">
+      <created>1673364910633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673364910634</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +204,7 @@
     <MESSAGE value="Operator, String" />
     <MESSAGE value="if문" />
     <MESSAGE value="SwitchCase문" />
-    <option name="LAST_COMMIT_MESSAGE" value="SwitchCase문" />
+    <MESSAGE value="For문" />
+    <option name="LAST_COMMIT_MESSAGE" value="For문" />
   </component>
 </project>
