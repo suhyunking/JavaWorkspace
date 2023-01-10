@@ -49,7 +49,29 @@ public class _04_SwitchCase {
         }
         System.out.println("조회 완료 #2");
 
+    //명확한 값이 있을 경우에는 switch 문을
+    //범위에 해당하는 값을 쓸 경우에는 if 문을 사용한다.
+        //중고 상품의 등급에 따른 가격을 책정 (1급 : 최상, 4급 : 최하)
+        //1등급 : 10000원
+        //2등급 : 9000원
+        //3등급 : 8000원
+        int grade = 1;
+        int price = 7000;
+        switch (grade) {
+            case 1:
+                price += 1000;
+            case 2:
+                price += 1000;
+            case 3:
+                price += 1000;
+                break;
+        }
+        System.out.println(grade + "등급 제품의 가격 : " + price + "원");
 
-
+        int score = 95;
+        if (score >= 90)
+            System.out.println("A");
+        else if (score >= 80)
+            System.out.println("B");
     }
 }
