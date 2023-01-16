@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="Array">
+      <change afterPath="$PROJECT_DIR$/src/chap_05/_02_ArrayLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/chap_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01_Array">
+  <component name="RunManager" selected="Application._02_ArrayLoop">
     <configuration name="_01_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_05._01_Array" />
       <module name="JavaWorkspace" />
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_MultipleTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_04._09_MultipleTable" />
+    <configuration name="_02_ArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_05._02_ArrayLoop" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_04.*" />
+          <option name="PATTERN" value="chap_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._02_ArrayLoop" />
         <item itemvalue="Application._01_Array" />
         <item itemvalue="Application._Quiz_04" />
         <item itemvalue="Application._11_Continue" />
         <item itemvalue="Application._10_Break" />
-        <item itemvalue="Application._09_MultipleTable" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,7 @@
       <workItem from="1673096510150" duration="676000" />
       <workItem from="1673253477349" duration="14241000" />
       <workItem from="1673348346452" duration="6468000" />
-      <workItem from="1673840625163" duration="4728000" />
+      <workItem from="1673840625163" duration="5036000" />
     </task>
     <task id="LOCAL-00001" summary="java 공부">
       <created>1673096560994</created>
@@ -238,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673869697101</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Array">
+      <created>1673874827327</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673874827328</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
