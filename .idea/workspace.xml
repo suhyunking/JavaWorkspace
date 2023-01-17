@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="Parameter">
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_03_return.java" afterDir="false" />
+    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="return">
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_04_ParameterAndResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_05_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_06_WhenToUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +54,7 @@
       <recent name="$PROJECT_DIR$/src/chap_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._03_return">
-    <configuration name="_01_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_06._01_Method" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._06_WhenToUse">
     <configuration name="_02_Parameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_06._02_Parameter" />
       <module name="JavaWorkspace" />
@@ -92,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_05._05_ASCII" />
+    <configuration name="_04_ParameterAndResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_06._04_ParameterAndResult" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_05.*" />
+          <option name="PATTERN" value="chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Quiz_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_05._Quiz_05" />
+    <configuration name="_05_Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_06._05_Overloading" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_05.*" />
+          <option name="PATTERN" value="chap_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06_WhenToUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_06._06_WhenToUse" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._06_WhenToUse" />
+        <item itemvalue="Application._05_Overloading" />
+        <item itemvalue="Application._04_ParameterAndResult" />
         <item itemvalue="Application._03_return" />
         <item itemvalue="Application._02_Parameter" />
-        <item itemvalue="Application._01_Method" />
-        <item itemvalue="Application._Quiz_05" />
-        <item itemvalue="Application._05_ASCII" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +141,7 @@
       <workItem from="1673096510150" duration="676000" />
       <workItem from="1673253477349" duration="14241000" />
       <workItem from="1673348346452" duration="6468000" />
-      <workItem from="1673840625163" duration="14599000" />
+      <workItem from="1673840625163" duration="17648000" />
     </task>
     <task id="LOCAL-00001" summary="java 공부">
       <created>1673096560994</created>
@@ -295,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673940764596</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="return">
+      <created>1673941276199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673941276199</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +343,7 @@
     <MESSAGE value="Quiz&#10;&#10;신발사이즈 배열" />
     <MESSAGE value="Method" />
     <MESSAGE value="Parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parameter" />
+    <MESSAGE value="return" />
+    <option name="LAST_COMMIT_MESSAGE" value="return" />
   </component>
 </project>
