@@ -34,6 +34,7 @@ public class _04_MultiArrayLoop {
 
         System.out.println("------------");
 
+
         //세로 10 x 가로 15에 해당하는 영화관 좌석
         String[][] seats3 = new String[10][15];
         String[] eng = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"};
