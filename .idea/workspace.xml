@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="ASCII">
-      <change afterPath="$PROJECT_DIR$/src/chap_05/_Quiz_05.java" afterDir="false" />
+    <list default="true" id="16eba527-fd9d-41a0-97d3-3ddb4e5946f2" name="Changes" comment="Quiz&#10;&#10;신발사이즈 배열">
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_01_Method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,13 @@
       <recent name="$PROJECT_DIR$/src/chap_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._Quiz_05">
-    <configuration name="_02_ArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_05._02_ArrayLoop" />
+  <component name="RunManager" selected="Application._01_Method">
+    <configuration name="_01_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_06._01_Method" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_05.*" />
+          <option name="PATTERN" value="chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01_Method" />
         <item itemvalue="Application._Quiz_05" />
         <item itemvalue="Application._05_ASCII" />
         <item itemvalue="Application._04_MultiArrayLoop" />
         <item itemvalue="Application._03_MultiArray" />
-        <item itemvalue="Application._02_ArrayLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1673096510150" duration="676000" />
       <workItem from="1673253477349" duration="14241000" />
       <workItem from="1673348346452" duration="6468000" />
-      <workItem from="1673840625163" duration="12804000" />
+      <workItem from="1673840625163" duration="13475000" />
     </task>
     <task id="LOCAL-00001" summary="java 공부">
       <created>1673096560994</created>
@@ -274,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673937382726</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Quiz&#10;&#10;신발사이즈 배열">
+      <created>1673939691063</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673939691063</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +317,7 @@
     <MESSAGE value="MultiArray" />
     <MESSAGE value="MultiArrayLoop" />
     <MESSAGE value="ASCII" />
-    <option name="LAST_COMMIT_MESSAGE" value="ASCII" />
+    <MESSAGE value="Quiz&#10;&#10;신발사이즈 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz&#10;&#10;신발사이즈 배열" />
   </component>
 </project>
