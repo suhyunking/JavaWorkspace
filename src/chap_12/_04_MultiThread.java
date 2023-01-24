@@ -19,6 +19,7 @@ public class _04_MultiThread {
             }
         };
 
+        //() : run()
         Runnable cleaner2 = () -> {
             System.out.println("-- 직원2 청소 시작 --");
             for (int i = 2; i <= 10; i += 2) {

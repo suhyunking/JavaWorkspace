@@ -4,7 +4,7 @@ import java.io.File;
 
 public class _05_FileAndFolder {
     public static void main(String[] args) {
-        // String folder = "C:\\Users\\Nadocoding\\Desktop\\JavaWorkspace\\src\\chap_13";
+         //String folder = "/Users/kimsoohyun/Desktop/boot/work/JavaWorkspace/src/chap_13";
         String folder = "src/chap_13";
         File filesAndFolders = new File(folder);
         System.out.println("현재 폴더 경로 : " + filesAndFolders.getAbsolutePath());

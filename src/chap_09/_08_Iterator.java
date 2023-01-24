@@ -22,14 +22,14 @@ public class _08_Iterator {
         System.out.println("------------------------");
 
         Iterator<String> it = list.iterator();
-        System.out.println(it.next());
-        System.out.println(it.next());
-        System.out.println(it.next());
-        System.out.println(it.next());
+        System.out.println(it.next()); //유재석
+        System.out.println(it.next()); //(알 수 없음)
+        System.out.println(it.next()); //김종국
+        System.out.println(it.next()); //(알 수 없음)
 
         System.out.println("------------------------");
         it = list.iterator(); // 커서를 처음 위치로 이동
-        while (it.hasNext()) {
+        while (it.hasNext()) { //모든 list 출력
             System.out.println(it.next());
         }
         System.out.println("------------------------");

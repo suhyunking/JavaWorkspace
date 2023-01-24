@@ -72,7 +72,7 @@ public class _07_HashMap {
         // 맵 : 중복 X, 순서 X
         map.put("김종국", 10);
         map.put("김종국", 30);
-        map.put("김종국", 50);
+        map.put("김종국", 50); // 마지막 값 허용
         for (String key : map.keySet()) {
             System.out.println("고객 이름 : " + key + "\t포인트 : " + map.get(key));
         }

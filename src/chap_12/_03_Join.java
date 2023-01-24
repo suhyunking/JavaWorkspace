@@ -21,7 +21,7 @@ public class _03_Join {
         System.out.println("-- 사장 청소 시작 --");
         for (int i = 1; i <= 10; i += 2) {
             System.out.println("(사장) " + i + "번방 청소 중");
-
+            //1초 동안 멈추고 실행
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
